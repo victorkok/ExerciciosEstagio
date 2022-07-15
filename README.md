@@ -1,5 +1,5 @@
 # ExerciciosEstagio
 
-Candidato:Victor Neri Kokado
+Nome: Victor Neri Kokado
 
 Usado dados.json como fonte dados do exercício 3
